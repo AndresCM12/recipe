@@ -5,5 +5,5 @@
 <li>https://recipe-classic.web.app</li>
 </ul>
 
-![](https://github.com/AndresCM12/team-page/blob/main/preview.png?raw=true?raw=true)
+![](https://github.com/AndresCM12/recipe/blob/main/preview.png?raw=true?raw=true?raw=true)
 >preview
